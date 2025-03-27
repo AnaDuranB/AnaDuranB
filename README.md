@@ -24,6 +24,17 @@
 - [**Cargo Maze**](https://github.com/ARSW-UECI/cargo-maze-backend): Online multiplayer game with Azure deployment.
 - **Adversarial Attacks Research**: Evaluated AI model robustness (FGSM, PGD) with defensive strategies.
 
+### 📊 GitHub Stats
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaDuranB&show_icons=true&theme=dark" width="46.4%" />
+  <img src="https://streak-stats.demolab.com?user=AnaDuranB&theme=dark" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaDuranB&layout=compact&theme=dark" width="40%" />
+</div>
+
 ### **📫 Let’s Connect!**
 
 - LinkedIn: [Ana Maria Duran Burgos](https://www.linkedin.com/in/anaduranb/)
